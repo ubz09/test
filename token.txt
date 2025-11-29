@@ -1,0 +1,2 @@
+# Crea token.txt y pega tu token
+echo "tu_token_del_bot_aqui" > token.txt
